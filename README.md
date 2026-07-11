@@ -1,2 +1,1 @@
 # Rickover-Racing
-Yada yada
